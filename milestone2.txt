@@ -1,0 +1,18 @@
+<html>
+<head>
+ <title> my first web page </title>
+</head>
+
+
+<body>
+  
+  <h1>ELECTRONICS AND COMMUNICATION ENGENEERING</h1>
+  
+  <P><b>Electronics and Communication Engineering</b> (ECE) is an emerging stream that offers firm promises to lend your career an edge. Studying this domain of engineering would mean mastering the skills related to electrical engineering as well as having an insight into the world of computer software and hardware. With the modern world gradually moving towards technology-driven operations, this amalgamation of electrical engineering with computer science would be an effective way out. Here are some aspects that make ECE one of the most beneficial choices in the domain of engineering.<br><br>
+  <img src="https://tse4.mm.bing.net/th?id=OIP.b_-_nwJ6vUyiZpZSti58nwHaC2&pid=Api&P=0" alt="ECE">
+  <h4>Strong Employment Potential</h4><br>
+  Electronics and Communication are the two most happening entities of modern technology. The demand for both of these has remained quite high in the last few years and is expected to reach the apex within another ten years. This is the reason that ECE graduates find jobs easily in both the public and private sector. <u>The ECE students can also show the flexibility of choosing software field over hardware field</u>. Companies like Nokia, BSNL, and Motorola are among the top recruiters of ECE graduates. Hence, considering the career prospect, <i>ECE is surely a beneficial stream for engineering aspirants.</i></p>
+   
+</body>
+
+</html>
